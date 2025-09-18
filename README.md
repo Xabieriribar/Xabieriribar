@@ -16,7 +16,7 @@ Location: Lausanne, CH
 ### Highlights
 - `libft` · C utilities library with tests and CI
 - `ft_printf` · Minimal printf clone with full build + unit tests
-- `Xabieriribar.github.io` → `xabieriribar.com` · Personal site on GitHub Pages
+- - `get_next_line` · Robust file descriptor line reader with buffer handling
 
 ### Tech
 C · Make · CMake · GitHub Actions · Unit testing (Criterion) · Linux · Valgrind
