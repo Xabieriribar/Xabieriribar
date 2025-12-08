@@ -1,10 +1,6 @@
 <div align="left">
 
-<h1>
-    <span style="font-weight: 900; letter-spacing: -2px; font-size: 3em; color: #000;">
-        Hi, I'm Xabi.
-    </span>
-</h1>
+<img src="header.gif" width="100%" alt="Hi, I'm Xabi - 42 Lausanne Pixel Art Landscape" style="margin-bottom: 20px;">
 
 <h3>
     <span style="font-family: sans-serif; color: #333;">
@@ -46,7 +42,7 @@
             <ul>
                 <li><strong>Fields:</strong> History, Geopolitics, Systems Engineering.</li>
                 <li><strong>Skill:</strong> I can perform a handstand from scratch.</li>
-                <li><strong>Goal:</strong> Building robust, scalable portfolio projects.</li>
+                <li><strong>Goal:</strong> Building strong, scalable portfolio projects.</li>
             </ul>
         </td>
     </tr>
