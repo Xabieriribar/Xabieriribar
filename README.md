@@ -1,6 +1,6 @@
 <div align="left">
 
-<img src="header.gif" width="100%" alt="Hi, I'm Xabi - 42 Lausanne Pixel Art Landscape" style="margin-bottom: 20px;">
+<img src="header_v2.gif" width="100%" alt="Hi, I'm Xabi - 42 Lausanne Pixel Art Landscape" style="margin-bottom: 20px;">
 
 <h3>
     <span style="font-family: sans-serif; color: #333;">
