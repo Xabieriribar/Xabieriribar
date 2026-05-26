@@ -4,7 +4,7 @@
 
 <h1>Hi, I'm Xabi</h1>
 
-<h3>42 Student · Systems Programming · DevOps Infrastructure</h3>
+<h3>42 Student · Systems Programming · Backend</h3>
 
 <p>
   Spanish developer based in Lausanne, Switzerland. Currently studying at
