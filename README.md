@@ -1,6 +1,6 @@
 <div align="center">
 
-  <a href="https://xabieriribar.com">
+  <a href="assets/xabier-physical-ai-intro.mp4">
     <img src="assets/xabier-physical-ai-intro-profile.gif" width="100%" alt="Xabier Iribar — Systems Programming, C/C++ and Physical AI">
   </a>
 
