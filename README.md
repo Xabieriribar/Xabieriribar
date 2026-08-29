@@ -2,16 +2,6 @@
 
 **42 Lausanne student · C/C++ and Linux systems · Building toward robotics deployment and Physical AI**
 
-<p align="center">
-  <a href="assets/xabier-physical-ai-intro.mp4">
-    <img src="assets/xabier-physical-ai-intro.jpg" width="100%" alt="Xabier Iribar — Systems Programming, C/C++ and Physical AI">
-  </a>
-</p>
-
-<p align="center">
-  <sub>▶ <a href="assets/xabier-physical-ai-intro.mp4">Watch the 10-second Physical AI introduction</a></sub>
-</p>
-
 I am a software engineering student at 42 Lausanne, based in Vaud, Switzerland. Before moving into software, I completed a Bachelor's degree in Geography and Land Planning, where I studied spatial data, natural hazards and disaster management.
 
 At 42, I have built a practical foundation in C, C++, Unix processes, memory management, networking, algorithms and collaborative project development. I now want to apply that foundation to systems that perceive and act in the physical world.
