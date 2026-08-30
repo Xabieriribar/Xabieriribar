@@ -12,7 +12,7 @@
   </p>
 
   <p>
-    <a href="https://xabieriribar.com"><img src="https://img.shields.io/badge/Portfolio-xabieriribar.com-111827?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"></a>
+    <a href="https://xabieriribar.ch"><img src="https://img.shields.io/badge/Portfolio-xabieriribar.com-111827?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"></a>
     <a href="https://ch.linkedin.com/in/xabier-iribar-revuelta-b85b09320"><img src="https://img.shields.io/badge/LinkedIn-connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
     <a href="mailto:xabieriribarrevuelta@gmail.com"><img src="https://img.shields.io/badge/Email-get%20in%20touch-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
   </p>
